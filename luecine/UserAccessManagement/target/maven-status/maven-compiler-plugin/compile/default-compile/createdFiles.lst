@@ -1,0 +1,5 @@
+com\examples\servlets\ApprovalServlet.class
+com\examples\servlets\SoftwareServlet.class
+com\examples\servlets\LoginServlet.class
+com\examples\servlets\SignUpServlet.class
+com\examples\servlets\RequestServlet.class
